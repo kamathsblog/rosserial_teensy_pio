@@ -1,6 +1,6 @@
 Template for ROSSerial with Teensy 4.1 using PlatformIO. 
 
-Using modified rosserial_arduino_lib files for reduced buffer sizes, lower number of publishers/subscribers and increased baud rate (500000). 
+Using modified [rosserial_arduino_lib](https://github.com/adityakamath/rosserial_arduino_lib) with reduced default buffer sizes, higher baud rate (500000). 
 
 Tested using Teensy 4.1 and ROS Noetic running on a RPi4.
 
